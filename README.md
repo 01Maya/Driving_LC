@@ -37,6 +37,3 @@ A modern, interactive, and responsive landing page for a driving school built wi
 
 ---
 
-
-git clone https://github.com/yourusername/driving-school-landing.git
-cd driving-school-landing
